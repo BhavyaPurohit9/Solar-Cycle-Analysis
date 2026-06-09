@@ -1,5 +1,5 @@
 # Solar-Cycle-Analysis
-This project 'Solar-Cycle-Analysis' performs analysis of  years of monthly sunspot data from 1749 to 2026. It is done using Python to characterize the solar period through three independent methods. 
+This project analyses 277 years of monthly sunspot data from 1749 to 2026. It is done using Python to characterize the solar period through three independent methods. 
 
 Data source: SILSO World Data Center, Royal Observatory of Belgium.
 Monthly mean sunspot number (csv file)
